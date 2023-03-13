@@ -1,8 +1,8 @@
 {
-  "name": "archery-stats",
-  "short_name": "archery-stats",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "name": "Archery Stats",
+  "short_name": "Archery Stats",
+  "theme_color": "#ffeb3b",
+  "background_color": "#303030",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
