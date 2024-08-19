@@ -50,6 +50,16 @@
       "rename": "Rename session"
     },
     "dialogs": {
+      "deleteAllDataDialog": {
+        "dialog2": {
+          "text": "Are you absolutley sure you want to delete all session data?"
+        },
+        "dialog3": {
+          "noButtonLabel": "No! I want my mummy",
+          "text": "There is no going back!",
+          "yesButtonLabel": "I said DELETE"
+        }
+      },
       "deleteDialog": {
         "text": "Are you sure you want to delete this session?"
       },
@@ -115,6 +125,10 @@
       "playSoundsCardSubtitle": "Sounds that play when buttons are pressed",
       "playSoundsCardTitle": "Play sounds",
       "soundControlLabel": "Sounds"
+    },
+    "data": {
+      "cardTitle": "Data",
+      "deleteAllData": "Delete all data"
     },
     "language": {
       "changeLanguageCardTitle": "Change app language"
