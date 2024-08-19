@@ -1,0 +1,133 @@
+{
+  "createSession": {
+    "title": "Create session"
+  },
+  "dialogs": {
+    "areYouSure": {
+      "no": "No",
+      "title": "Are you sure?",
+      "yes": "Yes"
+    }
+  },
+  "form": {
+    "buttons": {
+      "createSession": "Create Session"
+    },
+    "labels": {
+      "arrowCount": "Arrow Count",
+      "distance": "Distance",
+      "name": "Name",
+      "shootingType": "Shooting Type",
+      "targetFace": "Target Face"
+    },
+    "validations": {
+      "fieldRequired": "This field is required"
+    }
+  },
+  "generic": {
+    "cancel": "Cancel"
+  },
+  "navbar": {
+    "sessions": "Sessions",
+    "settings": "Settings",
+    "stats": "Stats"
+  },
+  "round": {
+    "dialogs": {
+      "deleteDialog": {
+        "title": "Are you sure you want to delete this round?"
+      },
+      "editRound": {
+        "title": "Edit round scores"
+      }
+    }
+  },
+  "session": {
+    "actions": {
+      "deleteSession": "Delete session",
+      "pressToLock": "Press to lock session",
+      "pressToUnlock": "Press to unlock session",
+      "rename": "Rename session"
+    },
+    "dialogs": {
+      "deleteDialog": {
+        "text": "Are you sure you want to delete this session?"
+      },
+      "emptyShotsWarningDialog": {
+        "title": "Are you sure you want to add an entry with no shots?"
+      },
+      "partiallyEmptyShotsWarningDialog": {
+        "text": "Are you sure you want to add an entry with some shots not having a value?",
+        "title": "Some of the shots have no value"
+      },
+      "renameDialog": {
+        "saveButton": "Save name",
+        "title": "Rename session"
+      }
+    },
+    "info": {
+      "amountOfArrows": "Amout of arrows",
+      "arrows": "Arrows",
+      "averageScore": "Average score",
+      "avg": "Avg",
+      "dateCreated": "Date created",
+      "distance": "Distance",
+      "onlyCountingValidRounds": "Only rounds with all shots counted",
+      "rounds": "Rounds",
+      "shootingType": "Shooting type",
+      "targetFace": "Target face",
+      "total": "Total",
+      "totalScore": "Total score",
+      "xCount": "X count"
+    },
+    "roundsTable": {
+      "columns": {
+        "average": "Average",
+        "number": "Number",
+        "sum": "Sum"
+      },
+      "hints": {
+        "tableActions": "Tap on a row to edit. Press and hold to delete round."
+      }
+    },
+    "sections": {
+      "sessionDetails": "Session details",
+      "sessionStatistics": "Session statistics"
+    },
+    "sortOptions": {
+      "highestAverageFirst": "Highest average first",
+      "highestTotalFirst": "Highest total first",
+      "lowestAverageFirst": "Lowest average first",
+      "lowestTotalFirst": "Lowest total first",
+      "newestFirst": "Newest first",
+      "oldestFirst": "Oldest first"
+    },
+    "warnings": {
+      "sessionWithIdNotFound": "Session with id \"{{ id }}\" not found"
+    }
+  },
+  "sessionsList": {
+    "noSessions": "No sessions yet",
+    "title": "Your Sessions"
+  },
+  "settings": {
+    "audio": {
+      "playSoundsCardSubtitle": "Sounds that play when buttons are pressed",
+      "playSoundsCardTitle": "Play sounds",
+      "soundControlLabel": "Sounds"
+    },
+    "language": {
+      "changeLanguageCardTitle": "Change app language"
+    }
+  },
+  "shootingTypes": {
+    "indoor": "Indoors",
+    "outdoor": "Outdoors"
+  },
+  "targetFaces": {
+    "field": "Field Face",
+    "full": "Standard Face",
+    "triplet": "Triplet Face",
+    "vegas": "Vegas Face"
+  }
+}
