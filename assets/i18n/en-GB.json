@@ -25,7 +25,11 @@
     }
   },
   "generic": {
-    "cancel": "Cancel"
+    "all": "All",
+    "cancel": "Cancel",
+    "close": "Close",
+    "filters": "Filters",
+    "resetFilters": "Reset filters"
   },
   "navbar": {
     "sessions": "Sessions",
@@ -65,6 +69,9 @@
       },
       "emptyShotsWarningDialog": {
         "title": "Are you sure you want to add an entry with no shots?"
+      },
+      "filtersDialog": {
+        "title": "Filter sessions"
       },
       "partiallyEmptyShotsWarningDialog": {
         "text": "Are you sure you want to add an entry with some shots not having a value?",
