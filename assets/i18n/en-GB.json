@@ -49,9 +49,9 @@
   "session": {
     "actions": {
       "deleteSession": "Delete session",
+      "editSession": "Edit session",
       "pressToLock": "Press to lock session",
-      "pressToUnlock": "Press to unlock session",
-      "rename": "Rename session"
+      "pressToUnlock": "Press to unlock session"
     },
     "dialogs": {
       "deleteAllDataDialog": {
@@ -67,6 +67,10 @@
       "deleteDialog": {
         "text": "Are you sure you want to delete this session?"
       },
+      "editSessionDialog": {
+        "saveButton": "Save changes",
+        "title": "Edit session"
+      },
       "emptyShotsWarningDialog": {
         "title": "Are you sure you want to add an entry with no shots?"
       },
@@ -76,10 +80,6 @@
       "partiallyEmptyShotsWarningDialog": {
         "text": "Are you sure you want to add an entry with some shots not having a value?",
         "title": "Some of the shots have no value"
-      },
-      "renameDialog": {
-        "saveButton": "Save name",
-        "title": "Rename session"
       }
     },
     "info": {
