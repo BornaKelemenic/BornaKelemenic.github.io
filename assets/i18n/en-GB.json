@@ -133,6 +133,10 @@
       "playSoundsCardTitle": "Play sounds",
       "soundControlLabel": "Sounds"
     },
+    "colors": {
+      "cardTitle": "Colours",
+      "scoreButtonColors": "Toggle colours on score input buttons"
+    },
     "data": {
       "cardTitle": "Data",
       "deleteAllData": "Delete all data"
