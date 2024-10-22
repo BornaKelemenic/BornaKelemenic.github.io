@@ -108,6 +108,7 @@
       }
     },
     "sections": {
+      "sessionActions": "Session actions",
       "sessionDetails": "Session details",
       "sessionStatistics": "Session statistics"
     },
