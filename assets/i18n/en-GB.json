@@ -32,6 +32,7 @@
     "resetFilters": "Reset filters"
   },
   "navbar": {
+    "arrowCounter": "Arrow counter",
     "sessions": "Sessions",
     "settings": "Settings",
     "stats": "Stats"
