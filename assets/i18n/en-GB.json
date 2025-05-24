@@ -1,4 +1,10 @@
 {
+  "bowTypes": {
+    "barebow": "Barebow",
+    "compound": "Compound",
+    "longbow": "Longbow",
+    "recurve": "Recurve"
+  },
   "createSession": {
     "title": "Create session"
   },
@@ -15,6 +21,7 @@
     },
     "labels": {
       "arrowCount": "Arrow Count",
+      "bowType": "Bow Type",
       "distance": "Distance",
       "name": "Name",
       "shootingType": "Shooting Type",
