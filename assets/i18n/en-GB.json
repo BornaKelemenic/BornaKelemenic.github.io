@@ -91,10 +91,11 @@
       }
     },
     "info": {
-      "amountOfArrows": "Amout of arrows",
+      "amountOfArrows": "Amount of arrows",
       "arrows": "Arrows",
       "averageScore": "Average score",
       "avg": "Avg",
+      "bowType": "Bow type",
       "dateCreated": "Date created",
       "distance": "Distance",
       "onlyCountingValidRounds": "Only rounds with all shots counted",
