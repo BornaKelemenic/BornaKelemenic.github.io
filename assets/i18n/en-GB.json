@@ -1,4 +1,11 @@
 {
+  "arrowCounter": {
+    "dialogs": {
+      "deleteEntryDialog": {
+        "title": "Are you sure you want to delete this entry?"
+      }
+    }
+  },
   "bowTypes": {
     "barebow": "Barebow",
     "compound": "Compound",
@@ -17,13 +24,17 @@
   },
   "form": {
     "buttons": {
-      "createSession": "Create Session"
+      "createSession": "Create Session",
+      "resetCount": "Reset count",
+      "saveCount": "Save count"
     },
     "labels": {
       "arrowCount": "Arrow Count",
       "bowType": "Bow Type",
+      "count": "Count",
       "distance": "Distance",
       "name": "Name",
+      "shooting": "Shooting",
       "shootingType": "Shooting Type",
       "targetFace": "Target Face"
     },
